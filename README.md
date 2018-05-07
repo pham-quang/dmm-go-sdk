@@ -1,4 +1,3 @@
-#TEST
 # DMM SDK for Go (v3)
 [![GoDoc](https://img.shields.io/badge/go-reference-blue.svg?style=flat-square)](https://godoc.org/github.com/dmmlabo/dmm-go-sdk)
 [![License](http://img.shields.io/badge/license-mit-blue.svg?style=flat-square)](https://github.com/dmmlabo/dmm-go-sdk/blob/master/LICENSE)
